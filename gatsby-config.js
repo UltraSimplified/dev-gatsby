@@ -15,6 +15,7 @@ module.exports = {
     "gatsby-plugin-mdx",
     "gatsby-remark-images",
     "gatsby-remark-autolink-headers",
+    "gatsby-transformer-sharp",
     /*{
       resolve: `gatsby-source-wordpress`,
       options: {
